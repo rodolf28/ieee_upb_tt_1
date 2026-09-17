@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id: "475369131246576641" # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title: "IEEE_UPB_TT1" # Project title
+  title: "IEEE_UPB_TT_1" # Project title
   author: "Rodolfo Gironda Trujillo" # Your name
   discord: "" # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description: "A basic digital design (using only logic gates) used in a class
